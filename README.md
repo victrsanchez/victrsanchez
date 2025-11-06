@@ -30,7 +30,6 @@ Currently, I'm focused on creating intelligent backend solutions using microserv
 ## 📬 Let's Connect
 
 - **LinkedIn:** [Víctor Sánchez Hernández](https://www.linkedin.com/in/victor-alfonso-sanchez-hernandez/)
-- **Email:** victrsanchez@gmail.com
 
 ---
 
