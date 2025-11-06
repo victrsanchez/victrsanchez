@@ -27,6 +27,14 @@ Currently, I'm focused on creating intelligent backend solutions using microserv
 
 ---
 
+## 🌍 Availability
+
+- México (CST)
+- Open to remote, hybrid, or international roles
+- Languages: Spanish (Native), English (Intermediate)
+
+---
+
 ## 📬 Let's Connect
 
 - **LinkedIn:** [Víctor Sánchez Hernández](https://www.linkedin.com/in/victor-alfonso-sanchez-hernandez/)
