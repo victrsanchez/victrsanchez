@@ -1,45 +1,66 @@
-# 👨‍💻 Víctor Sánchez Hernández — Backend Developer
+# 🧠 Víctor Sánchez Hernández — Backend Developer
 
 ## 🚀 About Me
 
-I'm a backend developer with over 5 years of experience building scalable, high-impact systems in industries like banking and legal tech. I specialize in Node.js technologies such as **NestJS** and **Express**, and I'm passionate about solving complex problems through clean architecture, automation, and modular design.
+I'm Víctor Sánchez Hernández, a backend developer passionate about building scalable, automated, and intelligent systems for high-compliance industries like fintech and legal tech. I specialize in clean architecture, microservices, and cloud-native solutions that solve real-world problems with precision and impact.
 
-Currently, I'm focused on creating intelligent backend solutions using microservices, cloud services, and AI-driven automation. I'm always excited to collaborate on innovative projects that make a real difference.
+With over 4 years of experience, I've led projects that significantly reduced operational time in digital signature workflows and asset valuation processes. I thrive on transforming complexity into modular, maintainable code and integrating AI to enhance backend intelligence.
 
----
-
-## 🧠 Tech Stack & Tools
-
-- **Languages:** JavaScript (Advanced), PHP (Advanced), Python (Intermediate)
-- **Frameworks:** NestJS, ExpressJS, Laravel, ApolloServer, GraphQL
-- **Databases:** PostgreSQL, MySQL, MongoDB, MSSQLSERVER
-- **Cloud & DevOps:** AWS (Lambdas, EC2, S3, SNS, SQS, Cognito), NGINX
-- **Tools:** Git, GitHub, Jira, Slack, Clockify, ClickUp, VSCode
-- **Agile Methodologies:** SCRUM
+I'm also an open-source contributor and recently collaborated on a POS system for entrepreneurs. I'm currently exploring technical content creation to share my knowledge with the developer community. Open to opportunities across sectors that value innovation, automation, and backend excellence.
 
 ---
 
-## 🎯 Career Goals
+## 🛠️ Tech Stack
 
-- Collaborate on fintech or legal tech projects with high reliability and ethical standards.
-- Build intelligent agents and automation workflows using APIs and cloud services.
-- Contribute to scalable backend architectures and developer-friendly ecosystems.
+**Languages:**  
+JavaScript · PHP · Python
+
+**Frameworks & APIs:**  
+NestJS · ExpressJS · Laravel · GraphQL · JWT · Twilio
+
+**Databases:**  
+PostgreSQL · MySQL · MongoDB
+
+**Cloud & DevOps:**  
+AWS (Lambdas, EC2, S3, SNS, SQS, Cognito) · NGINX · CI/CD · Monitoring
+
+**Tools & Collaboration:**  
+Git · GitHub · Jira · Slack · Clockify · ClickUp
+
+**Methodologies:**  
+SCRUM · Modular Design · Clean Architecture
 
 ---
 
-## 🌍 Availability
+## 📂 Featured Projects
 
-- México (CST)
-- Open to remote, hybrid, or international roles
-- Languages: Spanish (Native), English (Intermediate)
+| Project | Description | Tech Stack | Impact |
+|--------|-------------|------------|--------|
+| **Digital Signature Platform** | Web-based solution to automate commercial document signing. | Node.js · AWS · PostgreSQL | Reduced signing time by 60%. |
+| **Legal Cost Estimator** | Judicial cost calculator with automated logic. | PHP · PostgreSQL | Accelerated legal quoting process. |
+| **Investor Microsite** | Automated financial reporting for investors. | Laravel · MySQL | Improved transparency and decision-making. |
+| **Inventory Automation** | AI-powered microservice for inventory management. | NestJS · Python · AWS | Minimized human error and response time. |
+| **User Validation** | Secure user authentication via Twilio. | GraphQL · JWT · Twilio | Enhanced user experience and security. |
+| **POS Open Source** | Collaborative point-of-sale system for entrepreneurs. | Node.js · MongoDB | Community-driven solution. |
 
 ---
 
-## 📬 Let's Connect
+## 📚 Learning & Community
 
-- **LinkedIn:** [Víctor Sánchez Hernández](https://www.linkedin.com/in/victor-alfonso-sanchez-hernandez/)
+I'm currently working on technical content to share backend strategies, automation workflows, and intelligent agent design. Topics I plan to cover include:
+
+- Designing scalable microservices with NestJS
+- Automating legal workflows with Node.js and PostgreSQL
+- CI/CD pipelines for backend projects
+- Integrating Twilio and GraphQL for secure user flows
 
 ---
 
-> “I believe in scalable solutions, clean code, and meaningful collaboration. Let’s build something impactful together.”
+## 🤝 Let's Connect
 
+📍 México  
+🔗 [LinkedIn](https://www.linkedin.com/in/victorsanchezdev) · [GitHub](https://github.com/victrsanchez)
+
+---
+
+> “I automate processes. I scale systems. I turn ideas into intelligent backend solutions.”
