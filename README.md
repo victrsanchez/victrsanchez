@@ -6,8 +6,6 @@ I'm Víctor Sánchez Hernández, a backend developer passionate about building s
 
 With over 4 years of experience, I've led projects that significantly reduced operational time in digital signature workflows and asset valuation processes. I thrive on transforming complexity into modular, maintainable code and integrating AI to enhance backend intelligence.
 
-I'm also an open-source contributor and recently collaborated on a POS system for entrepreneurs. I'm currently exploring technical content creation to share my knowledge with the developer community. Open to opportunities across sectors that value innovation, automation, and backend excellence.
-
 ---
 
 ## 🛠️ Tech Stack
